@@ -8,7 +8,7 @@ https://d3amgcp91yumuw.cloudfront.net/
 
 ## Architecture
 User Browser --> CloudFront (CDN + HTTPS) --> S3 Bucket (origin)
-![Architecture](./architecture.png)
+![Architecture](./architecture.drawio.png)
 
 ## AWS Services
 | Service | Purpose |
