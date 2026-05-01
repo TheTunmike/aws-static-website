@@ -1,7 +1,7 @@
 # AWS Static Portfolio Website
 
 Static portfolio website hosted on AWS — S3 for storage, CloudFront for global CDN + HTTPS.
-Part of my AWS AIF-C01 certification project series.
+Part of my AWS CLF-C02 certification project series.
 
 ## Live URL
 d3amgcp91yumuw.cloudfront.net 
