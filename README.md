@@ -4,7 +4,7 @@ Static portfolio website hosted on AWS — S3 for storage, CloudFront for global
 Part of my AWS CLF-C02 certification project series.
 
 ## Live URL
-d3amgcp91yumuw.cloudfront.net 
+https://d3amgcp91yumuw.cloudfront.net/
 
 ## Architecture
 User Browser --> CloudFront (CDN + HTTPS) --> S3 Bucket (origin)
